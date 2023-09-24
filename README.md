@@ -1,2 +1,2 @@
-# Porfolio1-Analysis-of-cycling-data
+# Porfolio-1-Analysis-of-cycling-data
 #The first problem is based on a set of data on Steve's cycling history over the last couple of years exported from a couple of different systems.This is an exercise in data manipulation using Pandas Data Frames. From the select parts of the data, look at summary statistics and generate some plots. It is designed to allow to explore and learn about Data Frames, the use of notebooks and practice generating a presentation around your analysis.
